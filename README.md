@@ -1,1 +1,1 @@
-Multimodal Machine Learning for Early Risk Stratification of Amyotrophic Lateral Sclerosis
+Multimodal Machine Learning for ALS Risk Prediction using Postmortem Dataset
